@@ -7,7 +7,24 @@
 </div>
 <div style="display: inline_block"><br>
 </div>
+
+## Tecnologias
+<div>
   
+ 
+  <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="60" height="60" />     
+  <img loading="lazy" width="60" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+  <img  loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img  loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img loading="lazy" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
+          
+          
+          
+          
+</div>
+
   ##
  
 <div> 
