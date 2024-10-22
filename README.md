@@ -6,12 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorBrizola&hide_progress=true&theme=dracula">
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="igor-CSS" height="10%" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="igor-CSS" height="10%" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="igor-CSS" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" alt="igor-React" height="10%" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-    <img align="center" alt="igor-React" height="10%" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-    <img align="center" alt="igor-React" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   ##
