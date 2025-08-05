@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorBrizola&hide_progress=true&theme=dracula">
 </div>
 <div style="display: inline_block"><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=igorBrizola&theme=react-dark&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorBrizola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 </div>
 
 
