@@ -8,6 +8,9 @@
 <div style="display: inline_block"><br>
 </div>
 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=igorBrizola&theme=react-dark&hide_border=true" />
+
+
 ## Tecnologias
 <div>
   
